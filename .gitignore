@@ -17,6 +17,7 @@ esbuild-kit/
 /packages/vue/app.ts
 /packages/vue-icon/src/index.ts
 
+/examples/playground/*
 /examples/**/playwright-report
 /examples/docs/.vuepress/.cache/
 /examples/docs/.vuepress/.temp/
